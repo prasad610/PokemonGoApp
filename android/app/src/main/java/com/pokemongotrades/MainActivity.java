@@ -1,4 +1,4 @@
-package com.pokemongotrades;
+package com.prasaddighe.pokemongotrades;
 
 import com.facebook.react.ReactActivity;
 
